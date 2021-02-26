@@ -8,7 +8,7 @@ A website offering Social Solution Services
 * CSS
 
 ## Website
-https://https://jwhiteye.github.io/Horiseon/
+https://jwhiteye.github.io/Horiseon/
 
 ## Contribution
 Made by Jason Whiteye
